@@ -10,7 +10,7 @@ tech: ['React', 'API'],
 category: 'web',
 featured: true,
 liveUrl: '#',
-githubUrl: '#'
+githubUrl: 'https://github.com/Pallavi-2007-feb'
 },
 {
 id: 2,
@@ -21,7 +21,7 @@ tech: ['React', 'CSS'],
 category: 'web',
 featured: true,
 liveUrl: '#',
-githubUrl: '#'
+githubUrl: 'https://github.com/Pallavi-2007-feb'
 },
 {
 id: 3,
@@ -32,7 +32,7 @@ tech: ['JavaScript', 'HTML'],
 category: 'design',
 featured: false,
 liveUrl: '#',
-githubUrl: '#'
+githubUrl: 'https://github.com/Pallavi-2007-feb'
 }
 ];
 export const SKILLS = [
