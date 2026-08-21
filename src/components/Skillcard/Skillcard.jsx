@@ -1,6 +1,6 @@
 import React from 'react'
-import'./SkillCard.css'
-function SkillCard({name, level, icon}) {
+import'./Skillcard.css'
+function Skillcard({name, level, icon}) {
     const levelPercent = {Beginner: 33, Intermediate: 66, Advanced: 90}
     const pct = levelPercent [level] || 50;
   return (
@@ -15,4 +15,4 @@ function SkillCard({name, level, icon}) {
   )
 }
 
-export default SkillCard
+export default Skillcard

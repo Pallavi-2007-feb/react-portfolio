@@ -1,6 +1,6 @@
-import './AboutSection.css';
+import './Aboutsection.css';
 
-function AboutSection() {
+function Aboutsection() {
   return (
     <section id='about' className='about-section'>
       <div className='about-wrapper container'>
@@ -16,4 +16,4 @@ function AboutSection() {
   );
 }
 
-export default AboutSection;
+export default Aboutsection;
